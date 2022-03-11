@@ -2,11 +2,11 @@
 /**
 *main - Entry Point
 *
-*Desciption: prints "Programming is like building a multiple puzzle"
+*Desciption: prints "Programming is like building a multilingual puzzle"
 *
 */
 int main(void)
 {
-	puts("\"Programming is like building a multiple puzzle");
+	puts("\"Programming is like building a multilingual puzzle");
 	return (0);
 }
