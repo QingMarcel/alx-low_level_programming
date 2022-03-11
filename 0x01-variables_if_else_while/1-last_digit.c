@@ -5,7 +5,7 @@
 /* betty style doc for function main goes there */
 /*
  * main - Entry point
- * Description: prints if the string is greater than 5 or less than 6 
+ * Description: prints if the string is greater than 5 or less than 6
  * or equal to zero
  *Return: Always 0 (Success)
 */
