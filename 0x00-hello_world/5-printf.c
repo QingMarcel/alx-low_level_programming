@@ -1,12 +1,12 @@
 #include <stdio.h>
 
 /**
- *main - Entry point
+ * main - Entry point
  *
- *Description: prints "with proper grammer, but the outcome is a piece of 
- *art,"
+ * Description: prints "with proper grammer, but the outcome is a piece of 
+ * art,"
  *
- *Return: ALways 0 (Success)
+ * Return: ALways 0 (Success)
  */
 int main(void)
 {
