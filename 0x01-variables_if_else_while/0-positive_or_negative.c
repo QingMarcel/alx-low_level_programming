@@ -12,12 +12,15 @@ int main(void)
 	/* your code goes there */
 /*
  * main - Entry point
+ * 
  * Descrption: prints if the value stored in n is either postive, negative 
  * equal to zero
+ *
+ *Return: Always 0 (Success)
 */
 	if (n > 0)
 	{
-		printf("%d is positive\n",n);
+		printf("%d is positive\n", n);
 	} else if (n == 0)
 	{
 		printf("%d is zero\n", n);
