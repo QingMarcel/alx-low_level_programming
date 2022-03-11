@@ -12,7 +12,8 @@ int main(void)
 	/* your code goes there */
 /*
  * main - Entry point
- * Descrption: prints if the value stored in n is either postive, negative equal to zero
+ * Descrption: prints if the value stored in n is either postive, negative
+ * equal to zero
  *Return: Always 0 (Success)
 */
 	if (n > 0)
