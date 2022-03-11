@@ -4,10 +4,11 @@
 #include <stdio.h>
 /* betty style doc for function main goes there */
 /*
- * main - Entry point
+ * main - Entry poin
+ *
  * Description: prints if the string is greater than 5 or less than 6
  * or equal to zero
- *Return: Always 0 (Success)
+ * Return: Always 0 (Success)
 */
 int main(void)
 {
