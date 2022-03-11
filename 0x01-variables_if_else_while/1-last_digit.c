@@ -3,7 +3,7 @@
 /* more headers goes there */
 #include <stdio.h>
 /* betty style doc for function main goes there */
-/*
+/**
  * main - Entry poin
  *
  * Description: prints if the string is greater than 5 or less than 6
