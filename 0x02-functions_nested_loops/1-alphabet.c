@@ -16,3 +16,8 @@ void print_lowercase(void)
 	}
 	_putchar('\n');
 }
+int main(void)
+{
+	print_lowercase();
+	return (0);
+}
