@@ -6,6 +6,7 @@
  * Description: print alpahbet 10 times
  * Return: Always(0)
  */
+
 void print_alphabet_10times(void)
 {
 	int alpha_count = 0;
